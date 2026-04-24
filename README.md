@@ -1,2 +1,10 @@
 # Avaitor-predeictor-
-They see the signal of avaitor 
+
+
+## 🚀 Quick Start
+
+### Backend
+```bash
+cd backend
+npm install
+npm start
